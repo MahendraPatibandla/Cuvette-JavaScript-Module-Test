@@ -1,2 +1,1 @@
-# Cuvette-JavaScript-Module-Test
-Rock Paper Scissor Game
+# Cuvette-Js-Module-Test
